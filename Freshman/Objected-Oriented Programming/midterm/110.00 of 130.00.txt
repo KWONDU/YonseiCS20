@@ -1,3 +1,0 @@
-"이름: 권동욱 학번: 2020147570 Midterm Score: 110.0 Writing score: 30 Coding score: 80.0 Format: 0 Format_comment: nan Delay_minute: 0 Problem 1: 10 P1_comment: nan Problem 2: 30 P2_comment: nan Problem 3: 10 P3_comment: nan Problem 4: 30 P4_comment: Well done Writing 1: 10 W1_comment: nan Writing 2: 10.0 W2_comment: nan Writing 3: 10 W3_comment: nan
-
-(out of 130 total) Average: 74.1 / Median: 74.6 / Variance: 31.5
